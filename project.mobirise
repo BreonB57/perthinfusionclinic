@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "faqs.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 18,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -151,7 +151,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERTH INFUSION CLINIC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQs</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Information For Doctors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Referral</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Referral Form</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Information For Patients</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Alkimos, WA 6030</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pearsall, WA 6050</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FAQs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faqs.html\" aria-expanded=\"true\">Iron Infusion</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Alkimos, WA 6030</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pearsall, WA 6050</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Contact Us</a></li>"
         },
         {
           "_tags": [
@@ -209,6 +209,120 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "faqs.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Why might I need IV iron?</b></p><p><span style=\"line-height: 1.5;\">Iron is an essential element required for the oxygen-carrying capacity of haemoglobin in red blood cells and of myoglobin in muscle tissue. It also has an important role in many other vital processes in the human body.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">The most common way to treat iron deficiency anaemia is to take iron as a tablet or liquid. This approach works well for some people and is usually tried first. The main side effect of oral therapy is constipation and may not tolerated by a significant number of people. </span></p><p><span style=\"line-height: 1.5;\">An iron infusion may be required if oral iron is not tolerated, not effective or unlikely to work quickly enough.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What is an Iron Infusion? &nbsp;</b></p><p><span style=\"line-height: 1.5;\">An iron infusion is a minor procedure where an iron preparation known as Ferric carboxymaltose (FERINJECT®) is slowly introduced into the blood stream by an intravenous infusion.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Is it safe?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Iron infusions are safe particularly with the newer iron containing preparations currently available such as FERINJECT®. &nbsp;</span></p><p><span style=\"line-height: 1.5;\">Previous preparations can be associated with higher degree of allergic type reactions. Your doctor would have talked to you about the risks and the benefits of having an iron infusion in before the referral. They may include but not limited to the following:&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Potential skin staining at the infusion site.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Temporary changes in taste (e.g. metallic).&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Post infusion Headaches nausea, muscle and joint pain, shortness of breath, Itchiness, rash, changes to blood pressure or pulse, Allergic reactions&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Severe side effects are not common. You will be monitored for any signs of these side effects immediately following the infusion,&nbsp;</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What do I do on the day of the infusion?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">(1)   Have your breakfast/lunch as normal. You do not need to fast for an iron infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(2)   Take all of your regular medications.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(3)   Drink lots of fluids to ensure you are well hydrated as this will help with locating a suitable vein for the infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(4)   You can drive home after the infusion (unless there is an unexpected reaction) and resume usual activities.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Before you have IV iron:&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Please inform us if you are:</span></p><p><span style=\"line-height: 1.5;\">· Are pregnant or trying to get pregnant</span></p><p><span style=\"line-height: 1.5;\">· Have a history of asthma, eczema or other allergies</span></p><p><span style=\"line-height: 1.5;\">· Have had a reaction to any type of iron injection or infusion in the past</span><span style=\"line-height: 1.5;\">· </span></p><p><span style=\"line-height: 1.5;\">Have a history of high iron levels, haemachromatosis or liver problems</span></p><p><span style=\"line-height: 1.5;\">· Are on any medications (including over the counter or herbal supplements)</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">How long does the iron infusion take?</b></p><p><span style=\"line-height: 1.5;\">The infusion usually takes 15 – 20 minutes once the IV drip infusion is commenced.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">After the iron infusion&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Sometimes side effects can start one to two days after the infusion and include headache, mild fever, joint and muscle aches. These generally settle down by themselves over the next few days.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">If you experience any significant symptoms (for example chest pain or difficulty breathing) it will be important for you to see your doctor or present to an emergency department as soon as possible.</span></p></blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "12px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PERTH INFUSION CLINIC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FAQs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faqs.html\" aria-expanded=\"true\">Iron Infusion</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Alkimos, WA 6030</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pearsall, WA 6050</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-a\">Contact Us</a></li>"
         }
       ]
     }
