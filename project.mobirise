@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "faqs.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -182,7 +182,7 @@
           "title": "CONTACT US",
           "subtitle": "",
           "form": {
-            "action": "icreativecrum@gmail.com",
+            "action": "perthinfusionclinic@gmail.com",
             "alerts": {
               "success": "Thanks for contacting us. We will be in touch shortly"
             },
