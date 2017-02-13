@@ -236,7 +236,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "text": "2, 3 Bulwark Avenue, Alkimos WA 6038",
           "title": "Alkimos Medical Centre"
         },
@@ -284,7 +284,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "text": "Corner of Brooklyn &amp; Willespie Drive, Pearsall, WA 6050",
           "title": "Pearsall Medical Centre"
         },
