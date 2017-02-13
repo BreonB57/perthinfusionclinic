@@ -739,6 +739,12 @@ h6,
 #custom-html-m .my-image {
   width: 100%;
 }
+#custom-html-n {
+  /* Type valid CSS here */
+}
+#custom-html-n .my-image {
+  width: 100%;
+}
 #content2-h BLOCKQUOTE {
   font-size: 12px;
   text-align: left;
