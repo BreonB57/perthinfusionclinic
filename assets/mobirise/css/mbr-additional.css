@@ -733,6 +733,12 @@ h6,
 #form1-a .form-control-label {
   color: #232323;
 }
+#custom-html-m {
+  /* Type valid CSS here */
+}
+#custom-html-m .my-image {
+  width: 100%;
+}
 #content2-h BLOCKQUOTE {
   font-size: 12px;
   text-align: left;
