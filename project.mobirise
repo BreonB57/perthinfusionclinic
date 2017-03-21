@@ -66,7 +66,7 @@
             "showButtons": true
           },
           "title": "Perth Infusion Clinic",
-          "text": "TEXT_HERE",
+          "text": "Quick Access Iron Infusion Clinic",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Your Session Online</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Your Session By Phone</a>"
         },
         {
@@ -139,10 +139,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/perth-infusion-clinic-192x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -316,11 +318,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-m",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://d3gxy7nm8y4yjr.cloudfront.net/js/embed.js\" type=\"text/javascript\"></script>"
-          ]
+          ],
+          "_anchor": "custom-html-m"
         },
         {
           "_customTemplate": true,
@@ -332,11 +334,11 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://d3gxy7nm8y4yjr.cloudfront.net/js/embed.js\" type=\"text/javascript\"></script>"
-          ]
+          ],
+          "_anchor": "custom-html-n"
         }
       ]
     },
@@ -351,13 +353,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-h",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>Why might I need IV iron?</b></p><p><span style=\"line-height: 1.5;\">Iron is an essential element required for the oxygen-carrying capacity of haemoglobin in red blood cells and of myoglobin in muscle tissue. It also has an important role in many other vital processes in the human body.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">The most common way to treat iron deficiency anaemia is to take iron as a tablet or liquid. This approach works well for some people and is usually tried first. The main side effect of oral therapy is constipation and may not tolerated by a significant number of people. </span></p><p><span style=\"line-height: 1.5;\">An iron infusion may be required if oral iron is not tolerated, not effective or unlikely to work quickly enough.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What is an Iron Infusion? &nbsp;</b></p><p><span style=\"line-height: 1.5;\">An iron infusion is a minor procedure where an iron preparation known as Ferric carboxymaltose (FERINJECT®) is slowly introduced into the blood stream by an intravenous infusion.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Is it safe?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Iron infusions are safe particularly with the newer iron containing preparations currently available such as FERINJECT®. &nbsp;</span></p><p><span style=\"line-height: 1.5;\">Previous preparations can be associated with higher degree of allergic type reactions. Your doctor would have talked to you about the risks and the benefits of having an iron infusion in before the referral. They may include but not limited to the following:&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Potential skin staining at the infusion site.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Temporary changes in taste (e.g. metallic).&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Post infusion Headaches nausea, muscle and joint pain, shortness of breath, Itchiness, rash, changes to blood pressure or pulse, Allergic reactions&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Severe side effects are not common. You will be monitored for any signs of these side effects immediately following the infusion,&nbsp;</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What do I do on the day of the infusion?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">(1)   Have your breakfast/lunch as normal. You do not need to fast for an iron infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(2)   Take all of your regular medications.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(3)   Drink lots of fluids to ensure you are well hydrated as this will help with locating a suitable vein for the infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(4)   You can drive home after the infusion (unless there is an unexpected reaction) and resume usual activities.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Before you have IV iron:&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Please inform us if you are:</span></p><p><span style=\"line-height: 1.5;\">· Are pregnant or trying to get pregnant</span></p><p><span style=\"line-height: 1.5;\">· Have a history of asthma, eczema or other allergies</span></p><p><span style=\"line-height: 1.5;\">· Have had a reaction to any type of iron injection or infusion in the past</span><span style=\"line-height: 1.5;\">· </span></p><p><span style=\"line-height: 1.5;\">Have a history of high iron levels, haemachromatosis or liver problems</span></p><p><span style=\"line-height: 1.5;\">· Are on any medications (including over the counter or herbal supplements)</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">How long does the iron infusion take?</b></p><p><span style=\"line-height: 1.5;\">The infusion usually takes 15 – 20 minutes once the IV drip infusion is commenced.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">After the iron infusion&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Sometimes side effects can start one to two days after the infusion and include headache, mild fever, joint and muscle aches. These generally settle down by themselves over the next few days.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">If you experience any significant symptoms (for example chest pain or difficulty breathing) it will be important for you to see your doctor or present to an emergency department as soon as possible.</span></p></blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
               "font-size": "12px",
@@ -366,7 +361,14 @@
             "P": {
               "font-size": "12px"
             }
-          }
+          },
+          "_anchor": "content2-h",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Why might I need IV iron?</b></p><p><span style=\"line-height: 1.5;\">Iron is an essential element required for the oxygen-carrying capacity of haemoglobin in red blood cells and of myoglobin in muscle tissue. It also has an important role in many other vital processes in the human body.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">The most common way to treat iron deficiency anaemia is to take iron as a tablet or liquid. This approach works well for some people and is usually tried first. The main side effect of oral therapy is constipation and may not tolerated by a significant number of people. </span></p><p><span style=\"line-height: 1.5;\">An iron infusion may be required if oral iron is not tolerated, not effective or unlikely to work quickly enough.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What is an Iron Infusion? &nbsp;</b></p><p><span style=\"line-height: 1.5;\">An iron infusion is a minor procedure where an iron preparation known as Ferric carboxymaltose (FERINJECT®) is slowly introduced into the blood stream by an intravenous infusion.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Is it safe?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Iron infusions are safe particularly with the newer iron containing preparations currently available such as FERINJECT®. &nbsp;</span></p><p><span style=\"line-height: 1.5;\">Previous preparations can be associated with higher degree of allergic type reactions. Your doctor would have talked to you about the risks and the benefits of having an iron infusion in before the referral. They may include but not limited to the following:&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Potential skin staining at the infusion site.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Temporary changes in taste (e.g. metallic).&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Post infusion Headaches nausea, muscle and joint pain, shortness of breath, Itchiness, rash, changes to blood pressure or pulse, Allergic reactions&nbsp;</span></p><p><span style=\"line-height: 1.5;\">Severe side effects are not common. You will be monitored for any signs of these side effects immediately following the infusion,&nbsp;</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">What do I do on the day of the infusion?&nbsp;</b></p><p><span style=\"line-height: 1.5;\">(1)   Have your breakfast/lunch as normal. You do not need to fast for an iron infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(2)   Take all of your regular medications.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(3)   Drink lots of fluids to ensure you are well hydrated as this will help with locating a suitable vein for the infusion.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">(4)   You can drive home after the infusion (unless there is an unexpected reaction) and resume usual activities.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">Before you have IV iron:&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Please inform us if you are:</span></p><p><span style=\"line-height: 1.5;\">· Are pregnant or trying to get pregnant</span></p><p><span style=\"line-height: 1.5;\">· Have a history of asthma, eczema or other allergies</span></p><p><span style=\"line-height: 1.5;\">· Have had a reaction to any type of iron injection or infusion in the past</span><span style=\"line-height: 1.5;\">· </span></p><p><span style=\"line-height: 1.5;\">Have a history of high iron levels, haemachromatosis or liver problems</span></p><p><span style=\"line-height: 1.5;\">· Are on any medications (including over the counter or herbal supplements)</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">How long does the iron infusion take?</b></p><p><span style=\"line-height: 1.5;\">The infusion usually takes 15 – 20 minutes once the IV drip infusion is commenced.</span></p></blockquote><blockquote><p>&nbsp;<b style=\"line-height: 1.5;\">After the iron infusion&nbsp;</b></p><p><span style=\"line-height: 1.5;\">Sometimes side effects can start one to two days after the infusion and include headache, mild fever, joint and muscle aches. These generally settle down by themselves over the next few days.&nbsp;</span></p><p><span style=\"line-height: 1.5;\">If you experience any significant symptoms (for example chest pain or difficulty breathing) it will be important for you to see your doctor or present to an emergency department as soon as possible.</span></p></blockquote>"
         },
         {
           "_styles": {
