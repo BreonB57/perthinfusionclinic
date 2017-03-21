@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -67,7 +67,7 @@
           },
           "title": "Perth Infusion Clinic",
           "text": "Quick Access Iron Infusion Clinic",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Your Session Online</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book Your Session By Phone</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#map2-i\" data-toolbar=\"-mbrBtnMove\">Book Your Session Online</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-o\" data-toolbar=\"-mbrBtnMove\">Book Your Session By Phone</a>"
         },
         {
           "_styles": {
@@ -211,6 +211,26 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Contact Us",
+          "meta": "08 9275 5840"
         },
         {
           "_tags": [
