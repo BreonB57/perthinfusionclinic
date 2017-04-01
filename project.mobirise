@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "faqs.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -36,7 +36,7 @@
         "main": true,
         "title": "",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "Page: http://perthinfusionclinic.com.au/\n<title>Perth Infusion Clinic</title>\n<meta name=\"description\" content=\"Quick Access Iron Infusion Clinic\">\n\n====================================================================================================================\n",
         "footer_custom": "",
         "html_before": ""
       },
